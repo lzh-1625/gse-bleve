@@ -1,4 +1,4 @@
-module github.com/vcaesar/gse-bleve
+module github.com/lzh-1625/gse-bleve
 
 go 1.17
 
