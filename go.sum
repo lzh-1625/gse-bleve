@@ -68,8 +68,8 @@ github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLf
 github.com/json-iterator/go v0.0.0-20171115153421-f7279a603ede/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
 github.com/json-iterator/go v1.1.12/go.mod h1:e30LSqwooZae/UwlEbR2852Gd8hjQvJoHmT4TnhNGBo=
-github.com/lzh-1625/gse v0.0.0-20250710065445-56e23f120846 h1:gvtdpLM5Hnw1vNhMOU1sp6v7lj63ZOjs1pOOIj56a5Q=
-github.com/lzh-1625/gse v0.0.0-20250710065445-56e23f120846/go.mod h1:OrrEBD098ox4nHwQKHDIlzLVC2NJO4ejeIe8nDJC8OU=
+github.com/lzh-1625/gse v1.0.1 h1:C5ZJQzZI02mcDZ9mCx6uKInti+R0G0KRp2SfSLTuXbs=
+github.com/lzh-1625/gse v1.0.1/go.mod h1:J4xbVIl4tGnTsr8Dg5YyMs5re0jyHe7ivZvmkSY27nI=
 github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd h1:TRLaZ9cD/w8PVh93nsPXa1VrQ6jlwL5oN8l14QlcNfg=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
