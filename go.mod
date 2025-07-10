@@ -2,11 +2,9 @@ module github.com/lzh-1625/gse-bleve
 
 go 1.17
 
-replace github.com/lzh-1625/gse => github.com/lzh-1625/gse v0.0.0-20250710065445-56e23f120846
-
 require (
 	github.com/blevesearch/bleve/v2 v2.3.9
-	github.com/lzh-1625/gse v0.80.3
+	github.com/lzh-1625/gse v1.0.1
 	github.com/vcaesar/tt v0.20.1
 )
 
