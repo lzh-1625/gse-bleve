@@ -9,7 +9,7 @@ import (
 
 	"github.com/blevesearch/bleve/v2/analysis"
 	"github.com/blevesearch/bleve/v2/registry"
-	"github.com/go-ego/gse"
+	"github.com/lzh-1625/gse"
 )
 
 const (

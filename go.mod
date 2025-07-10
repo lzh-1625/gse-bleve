@@ -2,10 +2,12 @@ module github.com/lzh-1625/gse-bleve
 
 go 1.17
 
+replace github.com/lzh-1625/gse => github.com/lzh-1625/gse v0.0.0-20250710065445-56e23f120846
+
 require (
 	github.com/blevesearch/bleve/v2 v2.3.9
-	github.com/go-ego/gse v0.70.2
-	github.com/vcaesar/tt v0.20.0
+	github.com/lzh-1625/gse v0.80.3
+	github.com/vcaesar/tt v0.20.1
 )
 
 require (
@@ -33,7 +35,7 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/mschoch/smat v0.2.0 // indirect
-	github.com/vcaesar/cedar v0.20.1 // indirect
+	github.com/vcaesar/cedar v0.20.2 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
 	golang.org/x/sys v0.4.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
